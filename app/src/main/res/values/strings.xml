@@ -1,9 +1,6 @@
 <resources>
     <string name="app_name">Lab 05</string>
     <string name="main_greeting">Hello, Lab 05!</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="pref_1_title">This is a test preference.</string>
     <string name="pref_1_summary">This is a summary of the test preference.</string>
 </resources>
