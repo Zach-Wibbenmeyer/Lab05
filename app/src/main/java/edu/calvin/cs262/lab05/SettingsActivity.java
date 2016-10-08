@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 /**
  * Activity to display the settings page, consisting of one settings fragment
  *
- * @author Caleb Postma
+ * @author Zach Wibbenmeyer
  */
 public class SettingsActivity extends AppCompatActivity {
 

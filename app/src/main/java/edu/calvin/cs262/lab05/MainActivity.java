@@ -12,7 +12,7 @@ import android.widget.TextView;
 /**
  * MainActivity implements the main view screen for the app.
  *
- * @author Caleb Postma
+ * @author Zach Wibbenmeyer
  */
 public class MainActivity extends AppCompatActivity {
 
